@@ -1,0 +1,63 @@
+.pixel {font-family: 'Public Pixel', sans-serif;
+}
+
+.pixelNav {font-family: 'Public Pixel', sans-serif;
+    color: #7dc7da;
+    font-size: 80%;
+}
+
+.pixelNavName {font-family: 'Public Pixel', sans-serif;
+    color: white;
+    font-size: 80%;
+}
+.pixelName {font-family: 'Public Pixel', sans-serif;
+    color: #639342;
+    font-size: 80%;
+}
+
+.pixelPos {font-family: 'Public Pixel', sans-serif;
+    color: #7dc7da;
+    font-size: 80%;
+}
+
+.noPadding {
+    
+    padding: 0;
+}
+
+.side {
+    width: 100%;
+    height: 100%;
+}
+
+.navbar {
+    background-color: #1f1f1f;
+}
+
+body {
+    background-color: #1f1f1f;
+}
+
+.animation{
+    margin: auto;
+    color: #7dc7da;
+  }
+
+.wordHolder{
+    margin: auto;
+    color: white;
+    font: 700 normal 2.5em 'tahoma';
+  }
+
+.introHolder{
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.pixelNav:hover {
+    color: white;
+}
+
+.pixelNavName:hover {
+    color: #7dc7da;
+}
