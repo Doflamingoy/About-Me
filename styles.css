@@ -1,8 +1,15 @@
 .pixel {font-family: 'Public Pixel', sans-serif;
+    color: white;
 }
 
 .pixelNav {font-family: 'Public Pixel', sans-serif;
     color: #7dc7da;
+    font-size: 80%;
+}
+
+
+.currentNav {font-family: 'Public Pixel', sans-serif;
+    color: white;
     font-size: 80%;
 }
 
@@ -12,12 +19,23 @@
 }
 .pixelName {font-family: 'Public Pixel', sans-serif;
     color: #639342;
-    font-size: 80%;
 }
 
 .pixelPos {font-family: 'Public Pixel', sans-serif;
     color: #7dc7da;
     font-size: 80%;
+}
+
+.pixelTitle{font-family: 'Public Pixel', sans-serif;
+    color: white;
+}
+
+.workTitle {
+    color: #3f83ae;
+}
+
+.workDate {
+    color: #7dc7da;
 }
 
 .noPadding {
@@ -43,10 +61,14 @@ body {
     color: #7dc7da;
   }
 
+.portfolioName{font-family: 'Public Pixel', sans-serif;
+    color: #7dc7da;
+}
+
 .wordHolder{
     margin: auto;
     color: white;
-    font: 700 normal 2.5em 'tahoma';
+    font-family: 'Public Pixel', sans-serif;
   }
 
 .introHolder{
@@ -61,3 +83,79 @@ body {
 .pixelNavName:hover {
     color: #7dc7da;
 }
+
+.borderColor {
+    border-color: #b98773;
+}
+
+.cardWidth {
+    width: 100%;
+}
+
+.aboutMeName {
+    color: #fdd54f;
+}
+
+.achievementBG{
+    background-image: url(achievementMedal.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.mailBG{
+    background-image: url(mail.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.bayaniBG{
+    background-image: url(bayani.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.inventoryBG{
+    background-image: url(inventory.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.constructionBG{
+    background-image: url(consWeb.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.sneakerBG{
+    background-image: url(sneaker.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.landingHolder{
+    padding-top: 25%;
+    padding-bottom: 25%;
+}
+
+
+.sublandingHolder{
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.portfolioHeader{
+    padding-top: 5%;
+    padding-bottom: 10%;
+}
+.portfolioHolder{
+    padding-top: 10%;
+}
+
+.drive{
+    padding: 5%;
+}
+
+.spacer {
+    padding-bottom: 5%;
+}
+
