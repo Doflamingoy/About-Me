@@ -56,8 +56,8 @@ body {
     background-color: #1f1f1f;
 }
 
-.darkerBg {
-    background-color: #101010;
+.card {
+    length : 100%;
 }
 
 .animation{
