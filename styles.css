@@ -56,6 +56,10 @@ body {
     background-color: #1f1f1f;
 }
 
+.darkerBg {
+    background-color: #101010;
+}
+
 .animation{
     margin: auto;
     color: #7dc7da;
